@@ -6,7 +6,7 @@ authors = ["Mark Baggett <mbagget1@utk.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.8 || ^3.9 || ^3.10 || ^3.11 || ^3.12"
 lxml = "^5.2.2"
 black = "^24.4.2"
 ruff = "^0.4.4"
